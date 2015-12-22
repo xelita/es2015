@@ -1,0 +1,27 @@
+{
+  "name": "es2015",
+  "version": "0.0.1",
+  "description": "Let's dive into the latest version of Javascript. Each new feature has its dedicated part.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xelita/es2015.git"
+  },
+  "keywords": [
+    "es2015",
+    "babel",
+    "javascript"
+  ],
+  "author": "xelita",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xelita/es2015/issues"
+  },
+  "homepage": "https://github.com/xelita/es2015#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13"
+  }
+}
