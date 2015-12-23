@@ -7,6 +7,11 @@ Arrows are a function shorthand using the => syntax. They are syntactically simi
 
 See js/arrow-functions.js
 
+## Template strings
+Template strings provide syntactic sugar for constructing strings. This is similar to string interpolation features in Perl, Python and more. Optionally, a tag can be added to allow the string construction to be customized, avoiding injection attacks or constructing higher level data structures from string contents.
+
+See js/template-strings.js
+
 ## Proxies
 Proxies enable creation of objects with the full range of behaviors available to host objects. Can be used for interception, object virtualization, logging/profiling, etc.
 
