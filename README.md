@@ -7,6 +7,11 @@ Arrows are a function shorthand using the => syntax. They are syntactically simi
 
 See js/arrow-functions.js
 
+## Proxies
+Proxies enable creation of objects with the full range of behaviors available to host objects. Can be used for interception, object virtualization, logging/profiling, etc.
+
+See js/proxies.js
+
 ## Promises
 Promises are a library for asynchronous programming. Promises are a first class representation of a value that may be made available in the future. Promises are used in many existing JavaScript libraries.
 
